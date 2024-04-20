@@ -1,5 +1,6 @@
 {
     "main": {
         "header": "Welcome to the app"
-    }
+    },
+    "word": "word of mounth"
 }
