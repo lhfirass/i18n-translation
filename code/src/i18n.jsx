@@ -11,3 +11,5 @@ i18n
         debug: true,
         fallbacklang: 'en',
     });
+
+export default i18n;
